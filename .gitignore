@@ -1,7 +1,17 @@
-/build/
-/node_modules/
-/js/tmp/
-/lib
-/prebuilds
-*.log
-dbdata/
+'build'
+/
+/
+'node modules'
+/
+/
+'js'
+/
+'tmp'
+/
+/
+'lib'
+/
+'prebuilds'
+'.log'
+dbdata'
+/
